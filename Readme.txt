@@ -1,0 +1,3 @@
+Hello, the included applet relies on the python cryptography library being installed on the system via pip install cryptography or other similar command.
+The program will allow user input in the first text box which can then be encrypted. Output goes to the output text box in addition to automatically
+filling the input text box. A key is generated upon the application being opened but can also be regenerated. 
